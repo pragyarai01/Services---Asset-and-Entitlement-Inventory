@@ -1,1 +1,1 @@
-# Services---Asset-and-Entitlement-Inventory
+# Services-Asset and Entitlement Inventory
